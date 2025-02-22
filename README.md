@@ -3,7 +3,7 @@
 
   
 
-# <div align="center">Hi! I'm Ljiel 🌻 a first year Filipino Computer Science student 💻 </div>  
+# <div align="center">Hi! I'm Ljiel 🌻 a first year Filipino Computer Science student ♡ </div>  
 
 <div align = "left">
   
