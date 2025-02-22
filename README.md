@@ -20,10 +20,7 @@
 </br>
 
 
-## ***<div align="center">"Ang ComSci student, adik sa tab. Tab lang nang tab."</div>***
-
-
-</br>
+## ***<div align="center">"Ang ComSci student, adik sa tab. Tab lang nang tab."</br></div>***
 
 ## My Skill Set  
 <div align="center">  
