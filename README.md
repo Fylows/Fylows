@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.instagram.com%2Fmeowed%2Fp%2FCwB6MEGvKAN%2F&psig=AOvVaw0F4nhtr_STaMayHpLocE9L&ust=1740315630942000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMi1iImr14sDFQAAAAAdAAAAABAI" align="center" style="width: 100%" />
-</div>  
+<img src="https://instagram.fmnl25-1.fna.fbcdn.net/v/t39.30808-6/367432292_309247534992699_5322738182855038881_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=instagram.fmnl25-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2AHTCeC227Qmb44DcWa7JmAIJ5lqGMydkjS7cQybIjupqDXzAKfreciPGURZ3x05nFsZ3ICSLTSj3yaagEG6_FnA&_nc_ohc=d_2hSB_UjesQ7kNvgEu7ma2&_nc_gid=97760b1fee0a4b2c9eb2e7f98519f5e2&edm=ANTKIIoAAAAA&ccb=7-5&oh=00_AYAF8ATM7D50FbSlfh65aBnI8p-eaVke8S3Oskmvbw1xiA&oe=67BFA714&_nc_sid=d885a2" align="center" style="width: 100%"  />
+
   
 
 ## <div align="center">Hi! I'm Ljiel 🌻 a first year Filipino Computer Science student 💻 </div>  
