@@ -5,16 +5,16 @@
 
 ## <div align="center">Hi! I'm Ljiel 🌻 a first year Filipino Computer Science student 💻 </div>  
   
-<div align="left">🎓 I’m currently working on getting my diploma!</div>
+<div style = "left: 70%" >🎓 I’m currently working on getting my diploma!</div>
   
 
-<div align="left">👾 I'm currently interested in Game Development and Artificial Intelligence!  </div>
+<div style = "left: 70%">👾 I'm currently interested in Game Development and Artificial Intelligence!  </div>
   
 
-<div align="left">🍆 Michael Reeves is my GOAT  </div>
+<div style = "left: 70%">🍆 Michael Reeves is my GOAT  </div>
   
 
-<div align="left">❓I'm open to any learning opportunities, so please feel free to contact me!  </div>
+<div style = "left: 70%" >❓I'm open to any learning opportunities, so please feel free to contact me!  </div>
   
 
 ***<div align="center">"Ang ComSci student, adik sa tab. Tab lang ng tab."</div>***  
