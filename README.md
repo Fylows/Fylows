@@ -15,9 +15,10 @@
   
 - ❓I'm open to any learning opportunities, so please feel free to contact me!
 
+  
+
 </div>
 
-</br>
 ***<div style = "font-size:200" align="center">"Ang ComSci student, adik sa tab. Tab lang nang tab."</div>***  
   
 
