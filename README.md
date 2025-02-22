@@ -5,16 +5,14 @@
 
 ## <div align="center">Hi! I'm Ljiel 🌻 a first year Filipino Computer Science student 💻 </div>  
   
-- 🎓 I’m currently working on getting my diploma!
+      🎓 I’m currently working on getting my diploma!
+  
+      👾 I'm currently interested in Game Development and Artificial Intelligence! 
+  
+      🍆 Michael Reeves is my GOAT 
   
 
-- 👾 I'm currently interested in Game Development and Artificial Intelligence! 
-  
-
-- 🍆 Michael Reeves is my GOAT 
-  
-
-- ❓I'm open to any learning opportunities, so please feel free to contact me! 
+      ❓I'm open to any learning opportunities, so please feel free to contact me! 
   
 
 ***<div align="center">"Ang ComSci student, adik sa tab. Tab lang ng tab."</div>***  
@@ -57,26 +55,6 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Fylows&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=ljiel-saplan&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
