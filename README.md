@@ -17,7 +17,8 @@
 
 </div>
 
-***<div align="center">"Ang ComSci student, adik sa tab. Tab lang nang tab."</div>***  
+</br>
+***<div style = "font-size:200" align="center">"Ang ComSci student, adik sa tab. Tab lang nang tab."</div>***  
   
 
 <br/>  
