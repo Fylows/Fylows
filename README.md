@@ -3,7 +3,7 @@
 
   
 
-## <div align="center">Hi! I'm Ljiel 🌻 a first year Filipino Computer Science student 💻 </div>  
+# <div align="center">Hi! I'm Ljiel 🌻 a first year Filipino Computer Science student 💻 </div>  
 
 <div style = "margin-left: 20" align = "left">
   
@@ -20,7 +20,7 @@
 
 
 
-# ***<div align="center">"# Ang ComSci student, adik sa tab. Tab lang nang tab."</div>***  
+## ***<div align="center">"Ang ComSci student, adik sa tab. Tab lang nang tab."</div>***  
   
 
 <br/>  
