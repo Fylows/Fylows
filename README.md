@@ -5,14 +5,14 @@
 
 ## <div align="center">Hi! I'm Ljiel 🌻 a first year Filipino Computer Science student 💻 </div>  
   
-      🎓 I’m currently working on getting my diploma!
+  🎓 I’m currently working on getting my diploma!
   
-      👾 I'm currently interested in Game Development and Artificial Intelligence! 
+  👾 I'm currently interested in Game Development and Artificial Intelligence! 
   
-      🍆 Michael Reeves is my GOAT 
+  🍆 Michael Reeves is my GOAT 
   
 
-      ❓I'm open to any learning opportunities, so please feel free to contact me! 
+  ❓I'm open to any learning opportunities, so please feel free to contact me! 
   
 
 ***<div align="center">"Ang ComSci student, adik sa tab. Tab lang ng tab."</div>***  
